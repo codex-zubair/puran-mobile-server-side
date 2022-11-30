@@ -1,0 +1,50 @@
+[
+    {
+        "_id": 1,
+        "category": "OPPO"
+    },
+    {
+        "_id": 2,
+        "category": "APPLE"
+    },
+    {
+        "_id": 3,
+        "category": "LG"
+    },
+    {
+        "_id": 4,
+        "category": "LENOVO"
+    },
+    {
+        "_id": 5,
+        "category": "VIVO"
+    },
+    {
+        "_id": 6,
+        "category": "OTHER"
+    },
+    {
+        "_id": 7,
+        "category": "MOTORALA"
+    },
+    {
+        "_id": 8,
+        "category": "XIAOMI"
+    },
+    {
+        "_id": 9,
+        "category": "HUAWEI"
+    },
+    {
+        "_id": 10,
+        "category": "SAMSUNG"
+    },
+    {
+        "_id": 11,
+        "category": "NOKIA"
+    },
+    {
+        "_id": 12,
+        "category": "REALME"
+    }
+]

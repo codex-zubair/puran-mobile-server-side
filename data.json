@@ -1,0 +1,338 @@
+[
+    {
+        "_id": "1",
+        "name": "SAMSUNG",
+        "list": [
+            {
+                "name": "Name",
+                "picture": "Link",
+                "location": "Bangladesh",
+                "resale_price": "3000",
+                "original_price": "10000",
+                "years_of_use": "2",
+                "time": "3:00 PM",
+                "seller_name": "Rick",
+                "verified": "true"
+            },
+            {
+                "name": "Name",
+                "picture": "Link",
+                "location": "Bangladesh",
+                "resale_price": "3000",
+                "original_price": "10000",
+                "years_of_use": "2",
+                "time": "3:00 PM",
+                "seller_name": "Rick",
+                "verified": "true"
+            }
+        ]
+    },
+    {
+        "_id": "2",
+        "name": "APPLE",
+        "list": [
+            {
+                "name": "Name",
+                "picture": "Link",
+                "location": "Bangladesh",
+                "resale_price": "3000",
+                "original_price": "10000",
+                "years_of_use": "2",
+                "time": "3:00 PM",
+                "seller_name": "Rick",
+                "verified": "true"
+            },
+            {
+                "name": "Name",
+                "picture": "Link",
+                "location": "Bangladesh",
+                "resale_price": "3000",
+                "original_price": "10000",
+                "years_of_use": "2",
+                "time": "3:00 PM",
+                "seller_name": "Rick",
+                "verified": "true"
+            }
+        ]
+    },
+    {
+        "_id": "3",
+        "name": "HUAWEI",
+        "list": [
+            {
+                "name": "Name",
+                "picture": "Link",
+                "location": "Bangladesh",
+                "resale_price": "3000",
+                "original_price": "10000",
+                "years_of_use": "2",
+                "time": "3:00 PM",
+                "seller_name": "Rick",
+                "verified": "true"
+            },
+            {
+                "name": "Name",
+                "picture": "Link",
+                "location": "Bangladesh",
+                "resale_price": "3000",
+                "original_price": "10000",
+                "years_of_use": "2",
+                "time": "3:00 PM",
+                "seller_name": "Rick",
+                "verified": "true"
+            }
+        ]
+    },
+    {
+        "_id": "4",
+        "name": "XIAOMI",
+        "list": [
+            {
+                "name": "Name",
+                "picture": "Link",
+                "location": "Bangladesh",
+                "resale_price": "3000",
+                "original_price": "10000",
+                "years_of_use": "2",
+                "time": "3:00 PM",
+                "seller_name": "Rick",
+                "verified": "true"
+            },
+            {
+                "name": "Name",
+                "picture": "Link",
+                "location": "Bangladesh",
+                "resale_price": "3000",
+                "original_price": "10000",
+                "years_of_use": "2",
+                "time": "3:00 PM",
+                "seller_name": "Rick",
+                "verified": "true"
+            }
+        ]
+    },
+    {
+        "_id": "5",
+        "name": "OPPO",
+        "list": [
+            {
+                "name": "Name",
+                "picture": "Link",
+                "location": "Bangladesh",
+                "resale_price": "3000",
+                "original_price": "10000",
+                "years_of_use": "2",
+                "time": "3:00 PM",
+                "seller_name": "Rick",
+                "verified": "true"
+            },
+            {
+                "name": "Name",
+                "picture": "Link",
+                "location": "Bangladesh",
+                "resale_price": "3000",
+                "original_price": "10000",
+                "years_of_use": "2",
+                "time": "3:00 PM",
+                "seller_name": "Rick",
+                "verified": "true"
+            }
+        ]
+    },
+    {
+        "_id": "6",
+        "name": "VIVO",
+        "list": [
+            {
+                "name": "Name",
+                "picture": "Link",
+                "location": "Bangladesh",
+                "resale_price": "3000",
+                "original_price": "10000",
+                "years_of_use": "2",
+                "time": "3:00 PM",
+                "seller_name": "Rick",
+                "verified": "true"
+            },
+            {
+                "name": "Name",
+                "picture": "Link",
+                "location": "Bangladesh",
+                "resale_price": "3000",
+                "original_price": "10000",
+                "years_of_use": "2",
+                "time": "3:00 PM",
+                "seller_name": "Rick",
+                "verified": "true"
+            }
+        ]
+    },
+    {
+        "_id": "7",
+        "name": "MOTOROLA",
+        "list": [
+            {
+                "name": "Name",
+                "picture": "Link",
+                "location": "Bangladesh",
+                "resale_price": "3000",
+                "original_price": "10000",
+                "years_of_use": "2",
+                "time": "3:00 PM",
+                "seller_name": "Rick",
+                "verified": "true"
+            },
+            {
+                "name": "Name",
+                "picture": "Link",
+                "location": "Bangladesh",
+                "resale_price": "3000",
+                "original_price": "10000",
+                "years_of_use": "2",
+                "time": "3:00 PM",
+                "seller_name": "Rick",
+                "verified": "true"
+            }
+        ]
+    },
+    {
+        "_id": "8",
+        "name": "LENOVO",
+        "list": [
+            {
+                "name": "Name",
+                "picture": "Link",
+                "location": "Bangladesh",
+                "resale_price": "3000",
+                "original_price": "10000",
+                "years_of_use,": "2",
+                "time": "3:00 PM",
+                "seller_name": "Rick",
+                "verified": "true"
+            },
+            {
+                "name": "Name",
+                "picture": "Link",
+                "location": "Bangladesh",
+                "resale_price": "3000",
+                "original_price": "10000",
+                "years_of_use,": "2",
+                "time": "3:00 PM",
+                "seller_name": "Rick",
+                "verified": "true"
+            }
+        ]
+    },
+    {
+        "_id": "9",
+        "name": "LG",
+        "list": [
+            {
+                "name": "Name",
+                "picture": "Link",
+                "location": "Bangladesh",
+                "resale_price": "3000",
+                "original_price": "10000",
+                "years_of_use,": "2",
+                "time": "3:00 PM",
+                "seller_name": "Rick",
+                "verified": "true"
+            },
+            {
+                "name": "Name",
+                "picture": "Link",
+                "location": "Bangladesh",
+                "resale_price": "3000",
+                "original_price": "10000",
+                "years_of_use,": "2",
+                "time": "3:00 PM",
+                "seller_name": "Rick",
+                "verified": "true"
+            }
+        ]
+    },
+    {
+        "_id": "10",
+        "name": "NOKIA",
+        "list": [
+            {
+                "name": "Name",
+                "picture": "Link",
+                "location": "Bangladesh",
+                "resale_price": "3000",
+                "original_price": "10000",
+                "years_of_use,": "2",
+                "time": "3:00 PM",
+                "seller_name": "Rick",
+                "verified": "true"
+            },
+            {
+                "name": "Name",
+                "picture": "Link",
+                "location": "Bangladesh",
+                "resale_price": "3000",
+                "original_price": "10000",
+                "years_of_use,": "2",
+                "time": "3:00 PM",
+                "seller_name": "Rick",
+                "verified": "true"
+            }
+        ]
+    },
+    {
+        "_id": "11",
+        "name": "REALME",
+        "list": [
+            {
+                "name": "Name",
+                "picture": "Link",
+                "location": "Bangladesh",
+                "resale_price": "3000",
+                "original_price": "10000",
+                "years_of_use,": "2",
+                "time": "3:00 PM",
+                "seller_name": "Rick",
+                "verified": "true"
+            },
+            {
+                "name": "Name",
+                "picture": "Link",
+                "location": "Bangladesh",
+                "resale_price": "3000",
+                "original_price": "10000",
+                "years_of_use,": "2",
+                "time": "3:00 PM",
+                "seller_name": "Rick",
+                "verified": "true"
+            }
+        ]
+    },
+    {
+        "_id": "12",
+        "name": "OTHER",
+        "list": [
+            {
+                "name": "Name",
+                "picture": "Link",
+                "location": "Bangladesh",
+                "resale_price": "3000",
+                "original_price": "10000",
+                "years_of_use,": "2",
+                "time": "3:00 PM",
+                "seller_name": "Rick",
+                "verified": "true"
+            },
+            {
+                "name": "Name",
+                "picture": "Link",
+                "location": "Bangladesh",
+                "resale_price": "3000",
+                "original_price": "10000",
+                "years_of_use,": "2",
+                "time": "3:00 PM",
+                "seller_name": "Rick",
+                "verified": "true"
+            }
+        ]
+    }
+]
