@@ -1,4 +1,4 @@
-const express = require('express')
+const express = require('express');
 const cors = require('cors');
 const app = express();
 const port = process.env.PORT || 5000;
@@ -308,6 +308,18 @@ const run = async () => {
             const wishList = await wishListCollection.find(query).toArray();
             res.send(wishList);
 
+        })
+
+
+
+        // !Search query/ Searching value from database.
+        app.get('/search/' , async(req,res)=> {
+            const search = await req.query.search.toLowerCase();
+
+            const query = {$text: {$search: search}}
+            const result = await allPhoneCollection.find(query).toArray();
+
+            res.send(result);
         })
 
 
